@@ -1,4 +1,4 @@
 pub mod entities;
 pub mod factories;
-pub mod repositories;
+pub mod traits;
 pub mod value_objects;
